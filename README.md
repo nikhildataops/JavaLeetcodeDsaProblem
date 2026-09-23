@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
 ## Enumeration
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
