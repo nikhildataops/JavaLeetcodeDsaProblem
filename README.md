@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 ## Sorting
 |  |
