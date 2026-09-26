@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
