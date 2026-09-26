@@ -1,5 +1,6 @@
 class Solution {
     public int addDigits(int num) {
+        // O(n)
          
         // while(num>=10){
         //     int sum=0;
