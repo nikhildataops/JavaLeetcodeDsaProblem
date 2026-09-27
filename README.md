@@ -31,6 +31,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
 ## Enumeration
 |  |
@@ -60,11 +61,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | ------- |
 | [0136-single-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +98,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
