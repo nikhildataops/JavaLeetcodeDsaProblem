@@ -33,6 +33,7 @@
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
 ## Enumeration
 |  |
 | ------- |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
