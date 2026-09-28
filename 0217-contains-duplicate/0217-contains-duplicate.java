@@ -1,15 +1,17 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashMap<Integer,Integer> freq=new HashMap<>();
+        // T.C --> O(n)  S.C-->O(n)
+        HashSet<Integer> freq=new HashSet<>();
         for(int num:nums){
-            freq.put(num,freq.getOrDefault(num,0)+1);
-        }
-        for(int i:nums){
-            if(freq.get(i)>1){
-                return true;
+            if(!freq.add(num)){
+            return true;
             }
         }
+        
         return false;
+    
+
+        
         
         
         
