@@ -9,11 +9,13 @@
 | [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -123,4 +125,16 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0053-maximum-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
