@@ -41,6 +41,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 ## Enumeration
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1025-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
