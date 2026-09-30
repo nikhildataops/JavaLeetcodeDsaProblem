@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
@@ -30,6 +31,7 @@
 | [0001-two-sum](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0136-single-number) |
@@ -142,5 +144,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
