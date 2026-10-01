@@ -45,6 +45,7 @@
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 | [0048-rotate-image](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
