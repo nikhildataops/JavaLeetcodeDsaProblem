@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +83,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
