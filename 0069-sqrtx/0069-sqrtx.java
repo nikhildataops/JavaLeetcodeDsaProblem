@@ -5,7 +5,7 @@ class Solution {
         int ans=-1;
         if(x==0) return 0;
         while(s<=e){
-            int mid=s+(e-e)/2;
+            int mid=s+(e-s)/2;
             if(mid==x/mid) return mid;
 
             else if(mid>x/mid){
