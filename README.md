@@ -45,6 +45,7 @@
 | [0414-third-maximum-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0867-transpose-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Enumeration
@@ -84,6 +85,7 @@
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
