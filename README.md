@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0258-add-digits) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0287-find-the-duplicate-number) |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nikhildataops/JavaLeetcodeDsaProblem/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
